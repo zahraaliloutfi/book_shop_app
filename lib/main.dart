@@ -1,7 +1,6 @@
 // ignore_for_file: avoid_print, unused_import
 //book shop
 import 'dart:io';
-import 'package:messanger_app/autherr.dart';
 import 'package:messanger_app/author.dart';
 import 'package:messanger_app/borrower.dart';
 import 'package:messanger_app/maths.dart';
